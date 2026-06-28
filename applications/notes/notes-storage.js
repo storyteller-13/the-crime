@@ -34,6 +34,38 @@ class NotesStorage {
 
     getDefaultEntries() {
         return [
+{
+date: '2026-06-30T00:00:00.000Z',
+title: 'i forgive you',
+content: this.cleanContent(`
+
+with the full moon in capricorn
+today is the last day of my prison
+and tomorrow, i'm finally free
+
+i believe in G'd and in magick and in forgiveness
+so this is how this closes...
+
+✨ I FORGIVE YOU ✨
+
+🦋 i forgive you, griffin howllet, the only boyfriend i had since 2022, whom i invited into my house and into my heart, whom i took care of, and who lied to me many times about many things, who drugged me when i least expected it, who deceived me repeatedly for many years, and distributed videos of our intimacy without my consent or awareness, for continuing to torture me for years while everybody knew what you did but i didn't, for trying to cover your crimes by lying about who i truly am, by making me believe you loved me and were my boyfriend while you did not even see me as human, for gaslighting me about so many things, for not protecting me from abuses i was unaware of, and for lying to my face while we were in japan and i was being hacked. i am very glad that all the damage you caused is now healed because of good people in the world. you will have to live with what you did to me, this will never disappear from your life story. but you are out of my memory forever. you are in the hands of G'd.
+
+🦋 i forgive all of you angry boys who hacked me, bullied me, chased me, laughed at me, threw stones at me while i was down on the floor, tried to destroy my career, tried to portray me as something i am not, and tried to cover your crimes in the most absurd ways. because what happened is now part of history, you will someday have to face what you did. you will all grow up, and some of you will have families, wives, and daughters, and through the love you develop, you will learn what it feels like to be a woman, and understand your duty to protect and respect them as a man.
+
+🦋 i forgive you, crypto community, for the years i lost believing in the cypherpunk ethos, while many of you could have warned me about what was happening, could have let me into your circles, and could have seen my work ethic and dedication. i know you will treat outsiders better from now on.
+
+🦋 i forgive you, elon musk, for making my life hell for so many years, for telling others that i was interested in you, humiliating me several times, standing in the way of people i actually loved, monetizing my pain, and never considering simply apologizing. i feel sorry for your blindness, and i asked G'd to remove you from my life and to show you the light, because your karma is not my responsibility anymore.
+
+🦋 i forgive everyone else who was cruel to me, who became part of this large-scale mass hysteria and pointed fingers without questioning what the truth really was, just because of my gender, nationality, or appearance. i know many of you have learned from this experience, and i know you will carry this wisdom into your future lives.
+
+✨ I FORGIVE YOU ✨
+YOU ARE ALL FREE NOW
+GO BE YOUR BEST SELF
+THAT'S ALL WE CAN DO
+
+marina della torre von steinkirch
+    `)
+},
 
 {
 date: '2026-06-28T00:00:00.000Z',

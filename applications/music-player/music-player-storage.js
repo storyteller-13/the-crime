@@ -145,7 +145,7 @@ class MusicPlayerStorage {
                 id:   'the afterlife\'s zeitgeist lore',
                 name: 'the afterlife\'s zeitgeist lore',
                 songs: [
-                        { id: '4EGczv7iiEk', title: 'all we need is love (the beatles)' },
+                        { id: 'sHBOM8m4ygM', title: 'all we need is love (the beatles)' },
                         { id: '1lyu1KKwC74', title: 'bitter sweet symphony (the verve)' },
                         { id: 'MO0LdXqwDP0', title: 'afterlife (evanescence)' },
                         { id: 'XXIX2WnfbpE', title: 'runway (lady gaga + doechii)' },
@@ -189,7 +189,7 @@ class MusicPlayerStorage {
                         { id: '5H19y7B-Dzk', title: 'who feels love? (oasis)' },
                         { id: 'X-KyrJRhYUw', title: 'seconds before the sunrise (dean lewis)' },
                         { id: 'YzUs8ohSB3w', title: 'watch it burn (kate perry)' },
-                        { id: 'EHrt-gFgvXo', title: 'bring your love (madonna & sabrina)' },
+                        { id: 'EHrt-gFgvXo', title: 'bring your love (madonna + sabrina)' },
                         { id: '4gLVqjIvokc', title: 'don\'t you forget about me (simple minds)' },
                         { id: 'K0siYUjV9UM', title: 'mama, i\'m coming home (ozzy)' },
                         { id: 'UVpcupE1xEo', title: 'seven (david bowie)' },
