@@ -13,7 +13,7 @@ Clone the repo, then run `make install` (or `npm install`). This installs depend
 ## Commands
 
 - `make install` — npm install; also configures pre-commit to run tests
-- `make server` — local dev server at http://localhost:8088 (python3 http.server)
+- `make server` — local dev server at http://localhost:8055 (python3 http.server)
 - `make test` — run tests once (vitest)
 - `make test-watch` — vitest in watch mode
 - `make test-ui` — vitest with UI

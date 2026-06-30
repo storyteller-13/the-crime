@@ -1,7 +1,7 @@
 {
-  "name": "matrix.nullstar.fun",
+  "name": "thecrime.nullstar.fun",
   "version": "1.0.0",
-  "description": "the operating system of AI",
+  "description": "The Crime - A Memoir",
   "type": "module",
   "scripts": {
     "lint": "eslint \"**/*.js\" --max-warnings 0",

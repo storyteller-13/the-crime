@@ -1,6 +1,6 @@
 PHONY: server install lint test test-watch test-ui coverage clean
 
-PORT ?= 8088
+PORT ?= 8055
 PYTHON := python3
 
 server:

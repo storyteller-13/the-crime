@@ -61,8 +61,8 @@ class MusicPlayerStorage {
         return {
             playlists: [
                 {
-                    id:   'infinite forever with my babes',
-                    name: 'infinite forever with my babes',
+                    id:   'infinite forever and our babes',
+                    name: 'infinite forever and our babes',
                     songs: [
                         { id: 'djV11Xbc914', title: 'take on me (a-ha)' },
                         { id: 'Ni85wmDuNfc', title: 'stand by me (ben e. king)' },
@@ -76,19 +76,6 @@ class MusicPlayerStorage {
                         { id: 'mq28D0-0W1g', title: 'walking on sunshine (katrina + the waves)' },
                         { id: 'V1bFr2SWP1I', title: 'somewhere over the rainbow (iz kamakawiwoʻole)' },
                         { id: 'ABfQuZqq8wg', title: 'ain\'t no mountain high enough (marvin + tammi)' }
-                    ]
-                },
-                {
-                    id:   'chez the celibate robot princess',
-                    name: 'chez the celibate robot princess',
-                    songs: [
-                        { id: 'bG0QEvaIGfQ', title: 'ghost of a chance (rush)' },
-                        { id: 'n2MtEsrcTTs', title: 'harvest moon (neil young)' },
-                        { id: 'G2dR2DV-eGc', title: 'hard to concentrate (rhcp)' },
-                        { id: 'x11NA63gLDM', title: 'change the world (eric clapton)' },
-                        { id: 'ozXZnwYTMbs', title: 'nothing else matters (metallica)' },
-                        { id: 'F-F_oHOvBsM', title: 'in the stars (the rolling stones)' },
-                        { id: 'fF8GARU44iY', title: 'wild mountain honey (steve miller)' }
                     ]
                 },
                 {
@@ -128,7 +115,7 @@ class MusicPlayerStorage {
                         { id: 'ho9rZjlsyYY', title: 'tocatta and fugue in D minor (bach)' },
                         { id: 'iCEDfZgDPS8', title: 'night on bald mountain (mussorgsky)' },
                         { id: 'L0bcRCCg01I', title: 'mars, the bringer of the war (holst)' },
-                        { id: 'ncSuRrsS7UI', title: 'the carnival of animals (saint-saens)' },
+                        { id: 'ncSuRrsS7UI', title: 'the carnival of animals (saint-saëns)' },
                         { id: 'eqo0TpDBsZc', title: 'violet night... (james malikey)' },
                         { id: 'N0snMcR6aaA', title: 'emma\'s surrender (lofi girl)' },
                         { id: '072fuCoffOc', title: 'rose romance (garden classics)' },
