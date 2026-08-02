@@ -79,6 +79,19 @@ class MusicPlayerStorage {
                     ]
                 },
                 {
+                    id:   'the cutest couple in the world',
+                    name: 'the cutest couple in the world',
+                    songs: [
+                        { id: 'bG0QEvaIGfQ', title: 'ghost of a chance (rush)' },
+                        { id: 'n2MtEsrcTTs', title: 'harvest moon (neil young)' },
+                        { id: 'G2dR2DV-eGc', title: 'hard to concentrate (rhcp)' },
+                        { id: 'x11NA63gLDM', title: 'change the world (eric clapton)' },
+                        { id: 'ozXZnwYTMbs', title: 'nothing else matters (metallica)' },
+                        { id: 'F-F_oHOvBsM', title: 'in the stars (the rolling stones)' },
+                        { id: 'fF8GARU44iY', title: 'wild mountain honey (steve miller)' }
+                    ]
+                },
+                {
                     id:   'twinkle twinkle magical nullstar',
                     name: 'twinkle twinkle magical nullstar',
                     songs: [

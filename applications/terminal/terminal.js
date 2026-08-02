@@ -52,7 +52,7 @@
                 'new_pet.webp': 'file',
                 'august_83.png': 'file',
                 'life.png': 'file',
-                'vai_brasil.png': 'file',
+                'our_lady_of_grace.jpg': 'file',
             }
         };
 

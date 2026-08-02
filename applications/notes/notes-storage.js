@@ -35,6 +35,217 @@ class NotesStorage {
     getDefaultEntries() {
         return [
 {
+            date: '2026-07-17T00:00:00.000Z',
+            title: 'humans are multidimensional',
+            content: this.cleanContent(`
+            all right, folks,
+
+            i told myself i was going to take a break from the matrix to get some rest, and i am about to leave for my vacation. but the voices in my brain are telling me to tell one more story today.
+
+            it's called "women are multidimensional". it could also be called "men are multidimensional", but since i am a woman, i can only really speak 100% for myself.
+
+            what do i mean by this?
+
+            i mean that the more we live and the more we experience, the more stories we collect, the more wisdom we accumulate, the more multidimensional we become.
+
+            in simple words, the more data we have in our brains, the more we are able to comprehend the full spectrum of feelings and ideas that make up the human condition.
+
+            i am someone who has gone on many hero's journeys. i have met many people, lived in many cities, read many books, and heard many stories. they are all part of who i am now. i can't deny one part because of another — they are all equally me.
+
+            when i was younger, i was much more one-dimensional — or perhaps two-dimensional. i didn't know much about life beyond what my family thought, what i learned in school, and the information i had available to me.
+
+            it was much easier to hold onto a single persona. in my case, it was the super-hardcore STEAM student.
+
+            as the years pass, i naturally incorporated many other versions of myself. it's inevitable.
+
+            by the time you are 42 years old, you are the sum of every person you have met, every city you have lived in, every book you have read, every movie you have watched, and every feeling you have felt.
+
+            you become this big box filled with everything.
+
+            and if you are able to create a coherent story around all of it — and hey, that's no trivial task at all; we are all doing our best — but if you are able to tell an integrated story about your life and your choices, then i believe you can say you have a satisfied mind. you can say you have become a complete individual.
+
+            i believe i have been able to do that.
+
+            it's a bit difficult because my life story is so unusual that perhaps not everyone understands it. some people will label it with concepts that are familiar to them, while others will invent different narratives.
+
+            but i know who i am, and i know what i am not. and i will keep saying it out loud until everyone understands.
+
+            🦁 i know i have a little autism (my mother's side of the family has it, my uncle — mom's brother — is on the severe end of the spectrum and spent most of his life in a specialized care facility).
+            🦁 i know i have a little ADHD (my dad was one of the first diagnosed hyperactive kids back in the day; luckily, he was also incredibly smart — did i ever tell he had the highest IQ of all kids at the time?).
+            🦁 i know i have a little OCD (i actually kind of like that part — it keeps everything organized, clean, and nice. :) it has never really gotten in my way).
+            🦁 i also know that, aside from those traits, i am emotionally well-regulated. i have never had clinical depression — just a few sad days here and there because life can be hard. i am not bipolar or anything like that.
+            🦁 i know i am happy at least 90% of the time.
+            🦁 i know i love people with all my heart.
+            🦁 i know i am a bit naive.
+            🦁 i know i am an introvert and very private.
+            🦁 i know i hate social media, and i've been away from those kinds of interactions for years.
+            🦁 i know i believe in people more than i probably should, but i can't change that.
+            🦁 i know i keep my word, and integrity is one of the coolest qualities a person can have.
+            🦁 i know i tend to always tell the truth, and sometimes people don't understand.
+            🦁 i know i don't understand why people lie.
+            🦁 i know i believe in true love and soulmates.
+            🦁 i know i am a good person.
+            🦁 i know the truth always wins in the end.
+            🦁 i know justice can take a long time, but it eventually arrives.
+            🦁 i know kindness fills my heart with hope.
+            🦁 i know love gives me enormous energy.
+            🦁 i know i have a pure heart.
+            🦁 i know i will find someone special who truly sees me.
+            🦁 i know my mom is awesome.
+            🦁 i know science is awesome.
+            🦁 i know there is always a path to happiness.
+            🦁 i know i will make it.
+            🦁 i know my real friends will always be there for me.
+            🦁 i know birds, cats, dogs, and all animals are adorable, and i love them.
+            🦁 i know i will be happy every single day of my life.
+            🦁 i know i am multidimensional.
+            🦁 and i know that's a beautiful thing.
+
+            this note concludes this project
+            we walked this journey together, unveiling the truth about The Crime
+            and as i healed, you were able to understand how i felt
+
+            thank you for being here with me
+            let's all stay in a higher dimension now 🪩
+
+            <3
+            mvs
+            `)
+            },
+
+            {
+            date: '2026-07-06T00:00:00.000Z',
+            title: 'this week we celebrate love',
+            content: this.cleanContent(`
+            «i»es precária e veloz, felicidade.
+            custa a vir, e quando vens, não te demoras.
+            foste tu que ensinaste aos homens que havia tempo,
+            e, para te medir, se inventaram as horas.
+            «/i»— cecília meireles
+
+
+            good morning, my dear anon,
+
+            «i»if you are an american friend, how was your 4th of july celebration?
+            if you are a non-american friend from the north, how has your summer been?
+            if you are a non-american friend from the south, how has your winter been?
+            else, please take me to your planet!«/i»
+
+            i have been doing great, every single day feeling more and more complete, and more integrated with this beautiful universe of ours (and a little more healed from the trauma); it's really hard to be unhappy when you see so much beauty in every single thing in this reality
+
+            so many miracles, every day; you are a miracle yourself, my dear anon; if nobody has told you this recently, here it is, directly from the sun: look how complex your body and your existence are; they are so, so, so beautiful
+
+            therefore, this week, keep these things in mind: you are loved and lovable, and you have the right to be happy every single day ahead
+
+            now, as for the news, first, i'd like to send my special congratulations to one of my beautiful bffs on her dreamy wedding! live the dream, my dear; you deserve every bit of it 💜
+            (and another congrats to everyone else getting married — finding your soulmate means you are WINNING the game)
+
+            second, i would like to say that i have never been so excited about my work; (ok, maybe i have always been VERY excited about my work...); i know i haven't shared much about what i have been building at NULLSTAR and about LOGIC-13, but this is by design, for now; there are several surprises waiting, and you will have to be patient, my dear anon friend; all i can say is... it's going to be very cool!
+
+            finally, yeah, everything is a little weird; we are all feeling it; but... i would like to invite you to marina's rose-colored-soul experiment: what if, this week, we decide to pretend that everything is beautiful, that evil is just an annoying clown, that peace and fraternity are possible, and that love... love will save us all... love will help us see beyond our tired human eyes... love will make us feel invincible and whole
+
+            how about, for one week, each of us tries our very best to remember goodness; remember that our enemies are beautiful in their own way; remember that the purpose of pain and suffering is to alchemize them into wisdom and strength; remember that our children can inherit a much better world, and all we need to do is keep building it today; remember that we have infinite power to change our lives... and to forgive
+
+            this week we celebrate love
+            in all its shapes and forms
+
+            ps: the new artwork is our lady of grace, who arrived at my mom's house yesterday. she travels from house to house, and it's always such a special blessing when she arrives. this depiction of mary is particularly interesting because she is stepping on a snake, symbolizing her triumph over the serpent. there are also a few fascinating biblical passages connected to this imagery that i encourage you to look up.
+
+            ps2: every time in my life that i (re)start working on a new project, i realy enjoy diving deep into books and articles and taking the time to become an expert as i build; i really, really enjoy reading and doing research; yes, i'm a weirdo — i love reading papers! of course they're only a small part of the work, but this week i've been indulging myself...
+
+            `)
+            },
+
+            {
+            date: '2026-07-05T00:00:00.000Z',
+            title: 'happy 250th, america',
+            content: this.cleanContent(`
+            «i»i miss you, my beautiful home
+            and i know i will be back soon
+            and every next 4th of july i'll
+            be celebrating at my home, 
+            with my family
+
+            for now, i cherish the sweet memories,
+            celebrate being in love with someone
+            very special, being able to work on 
+            my career and knowing i'll make it,
+            simply feel utterly deeply grateful
+            for the american friends in my life,
+            and for all the blessings this
+            country has given to me
+
+
+            thank you, United States of America
+            for being the best country in the world
+            and for still being the Land of the Free
+            «/i»
+
+
+            🇺🇸 MY TOP 4TH OF JULY OF ALL TIMES 🇺🇸
+
+
+            ✨ I. Port Jefferson, NY, 2013 ✨
+
+            That was a great year for me. I was finally loosening up a little bit and enjoying living on Long Island and in New York.
+
+            (During the first years of my PhD, I'd spend all my days, nights, weekends, and perhaps every single second outside of classes in my office studying, under tons of Focalin provided directly by the school's hospital. People would joke that I lived in my office. I even remember this good friend who was worried about me and tried to convince me that a PhD is a marathon, not a sprint... he was right.)
+
+            Anyway, that particular year I had a great crowd of friends. We dressed up super cute, and after living in the USA for over four years, I was finally feeling like a real American.
+
+
+            ✨ II. Los Angeles, CA, 2020 ✨
+
+            That first year of the pandemic was very tough. LA was chaos, and morale was below freezing. But I did get to have a great celebration.
+
+            I was living in an apartment in Melrose at the time that had an amazing rooftop with a 360-degree view of the entire city (btw, a great spot to fly a drone!).
+
+            We had a great party, and the fireworks were absolutely some of the best of my life!
+
+
+            ✨ III. San Francisco, CA, 2015 ✨
+
+            My first year in California. My first year as a software engineer. The first time in my life I had a six-figure salary.
+
+            I was living the life.
+
+            This was one of the best years of my life! That particular celebration, I spent the day having a picnic in Golden Gate Park and at Sunset Beach, and then headed to Twin Peaks for the fireworks.
+
+            Bliss.
+
+
+            ✨ IV. New York City, NY, 2010 ✨
+
+            That year I was officially an American resident, living in New York!
+
+            My first 4th of July during my PhD was full of style! We took the Long Island Rail Road and went to the traditional New Yorker spots, and I was simply mesmerized.
+
+            I was so much in love with my life, with the opportunities I had, and with all the dreams ahead of me. I wanted to make it big. I wanted to win a Nobel Prize. I wanted to break every ceiling. But, mostly, I wanted to make such a magical place my home.
+
+            PS: The following year I spent 4th of July in Montauk, and it was every bit as good as this one. In fact, perhaps every 4th of July during those graduate school years was simply fantastic.
+
+
+            ✨ V. Washington, DC, 2008 ✨
+
+            My first 4th of July ever, right in the heart of the celebrations!
+
+            I was working with CUA and NASA Goddard Space Flight Center on Active Galactic Nuclei, and I was having the best summer of my life up to that point. I could not believe I was at NASA — I even had a little desk in one of the buildings!
+
+            I was feeling invincible!
+
+
+            ✨ VI. (Honorable Mention) Curitiba, Brazil, 1996 ✨
+
+            I watched Independence Day, with Will Smith and Bill Pullman, when it came out, and it was sooo cool! 
+            
+            Perhaps that was the first time I understood what 4th of July represented. At that time, I already dreamed about moving to the place I already believed was the best country in the world.
+
+            Thank you, Almighty G'd, for letting me achieve that dream.
+
+                `)
+            },
+
+{
 date: '2026-06-30T00:00:00.000Z',
 title: 'i forgive you',
 content: this.cleanContent(`

@@ -21,7 +21,7 @@ class ArtworkApp extends BaseApp {
             'new_pet.webp',
             'august_83.png',
             'life.png',
-            'vai_brasil.png'
+            'our_lady_of_grace.jpg'
         ];
 
         this.init();
