@@ -34,7 +34,95 @@ class NotesStorage {
 
     getDefaultEntries() {
         return [
-{
+            {
+            date: '2026-08-16T00:00:00.000Z',
+            title: 'I\'M FREE, NOW IT\'S MY DREAM LIFE',
+            content: this.cleanContent(`
+            hi folks,
+
+            this project was archived because it's a closed chapter from perhaps the hardest months of my life, and i simply can't look at it anymore.
+
+            but i need to write one more thing: even though no one has talked directly to me in over two years (like if i had leprosy), through induction with the help of good online friends (mostly from youtube), i eventually figured out what i believe happened.
+
+            it was the crazy ex who started. he was the one who created the persona, shared videos and pictures (like the 96 video, which i swear in the name of my dad, god, i don't remember it, but he is the only person who could have done this).
+            
+            he somehow started selling me (i think it was an onlyfans account, but i have never seen it), and somehow i started becoming known online. meanwhile, i was focusing on my work and studies and being gaslit every single second.
+
+            then more psychopaths entered the game, and i started being filmed, streamed, gangstalked, and essentially enslaved, creating an entirely new concept of modern slavery — all while i simply didn't realize what was going on. i only noticed that nobody would talk to me, work with me, or explain what was happening.
+
+            i don't know how much money these monsters made of me, but obviously i have never seen any of it. and i am sorry to bring you this news, but if you paid for it, you were sponsoring a very cruel crime. and i still don't know who was that voice in japan, and who was watching it and how.
+            
+            i should have known better. psychopaths are real, and there were plenty of red flags.
+
+            unfortunately, before i moved full-time into blockchain projects in 2021, i was sheltered in a world of decent people, scientists, and engineers, with well-regulated professional interactions. so i could not have known better. being an introvert and a workaholic, and not being on social media, probably didn't help against the helpless self-alienation and lack of awareness surrounding the post-covid societal eruption.
+            
+            at this moment, somehow, the entire world is watching everything i do. all my devices (with exception of my work linux box that no one will ever touch) have been streamed to everyone, no matter how many times i change them to new ones (and how many i asked to stop or i asked to someone to tell me). i believe this was a way someone decided to try to fix things, but it now seems more like a way someone powerful decided to finish destroying my agency and sanity.
+
+            but i am still here. i am still jobless and lost. i am still in the dark, trying to move on and heal without knowing what really happened.
+
+            at some point, everything should be revealed, because it has no other way. and i beg you: please help make that happen sooner rather than later. it's time.
+
+            the last three years have been the most painful and hardest time of my life. i didn't know a person could suffer so much. i can't even describe what i have been through, and i would rather use all my brain capacity to forget and move on.
+
+            i had no idea about any of this for a long time, and every single thing was taken from me: my life, my career, my wealth, my friends, my home, my privacy, my agency, and my dignity.
+
+            then i slowly started finding out, piece by piece: crime stacked on top of more crime, until i couldn't believe it could possibly be real.
+
+            i first realized the tip of the iceberg on november 22, 2024, but now i believe i was captured back in 2022. it's hard to be an immigrant, and it's hard to be a woman. i have been humiliated for many years, bullied, chased, starved, and had everything stripped from me.
+
+            but it is what it is.
+
+            the way i frame it in my head is that perhaps my story has helped the world a little bit. memento mori: i am healthy, i am still alive, i still have a life ahead of me, and so many things could have been much worse.
+
+            now i am past acceptance. i am looking at what's left and what's next.
+
+            i am starting to feel whole again. i have forgiven myself for being so clueless about him and everything else, and i have forgiven the people from my old life for believing i was that person or for not warning me.
+
+            i am now focusing on rebuilding my life, and i am grateful that there have been so many good people helping me.
+
+            i am a great scientist and engineer, and i can build my career back. unfortunately, i will now always be on the internet, but the people who stole my images will face the consequences of the law.
+
+            the moments of extreme suffering and despair will fade from my memory as i build new moments and cherish every second ahead of me.
+
+            i really love so many friends around the world who have been there for me every day, holding my hand. and love and communication don't need to happen through sounds; they only need to come from the heart.
+
+            i have proven to myself that miracles and magic are real. and i am still alive, healthy, a good person, and i have my integrity intact.
+
+            i will be okay. i will overcome this and forget this nightmare. 
+
+            once more, just to make it very clear:
+
+            -------------------------------------------------------------------
+            I NEVER HAD AN OF, AND I NEVER SHARED INTIMATE PICTURES OF MYSELF. 
+            I WAS ENSLAVED, DECEIVED, ABUSED, AND DRUGGED BY MY EX-BOYFRIEND, 
+            GRIFFIN HOWLETT, FROM 2022 TO 2024, PLUS ALL THE OTHER PSYCHOPATHS
+            I DON'T KNOW ABOUT AND I ONLY DISCOVERED THE FULL EXTENT OF WHAT WAS
+            HAPPENING RECENTLY. I WILL REPEAT THIS FOR AS LONG AS NECESSARY UNTIL 
+            IT IS UNDERSTOOD: I AM NOT A WHORE. I AM A TIMID ENGINEER AND SCIENTIST
+            WHOSE LIFE WAS DESTROYED BY MONSTERS. NO ONE HAS ANY IDEA HOW MUCH 
+            I SUFFERED, AND I DESERVE RESPECT AND JUSTICE, ONCE AND FOR ALL.
+            -------------------------------------------------------------------
+            
+            but mostly...
+
+            NO ONE WILL EVER DESTROY MY LIFE. EVER.
+
+            👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
+
+            so what's now?
+
+            i am building my company, and i will have good clients, and it will be honest work.
+
+            i am building my game, and i will have good friends and fans who will love my work, and it will be honest work.
+
+            i am building my home and family, and i will have a good partner and be a good mom and wife, and it will be a honest life.
+
+            and this little horror tale will be nothing but a tiny blip in all the beautiful stories and moments that my life will be made of.
+
+            👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
+            `)
+            },
+            {
             date: '2026-07-17T00:00:00.000Z',
             title: 'humans are multidimensional',
             content: this.cleanContent(`
@@ -2511,41 +2599,6 @@ don't believe. just watch.
 
 (LET'S GO!)
 
-    `)
-},
-            
-{
-date: '2026-01-23T00:00:00.000Z',
-title: 'an ode to my soulmate',
-content: this.cleanContent(`
-
-where are you, my beautiful soulmate?
-
-if you really exist in this lifetime (and i know you do)
-you must be there somewhere
-please, find me - i need you more than ever
-
-at this point you should at least feel my calling
-deep in your soul
-
-maybe you don't know me yet
-maybe you do
-but you must feel me
-
-✨ please, find me ✨
-
-we have a magical life to live
-and there is no time to waste anymore
-my heart has been longing for you for so long
-but now it's time - your beautiful girl needs you now
-
-✨ please, find me ✨
-
-trust the magic
-i know i will see you soon
-and i already love every cell of your body
-
-<3
     `)
 },
 

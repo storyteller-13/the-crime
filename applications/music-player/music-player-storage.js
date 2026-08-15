@@ -145,6 +145,7 @@ class MusicPlayerStorage {
                 id:   'the afterlife\'s zeitgeist lore',
                 name: 'the afterlife\'s zeitgeist lore',
                 songs: [
+                        { id: 'R38OS4cBzhA', title: 'the end (of monsters and men)' },
                         { id: 'sHBOM8m4ygM', title: 'all we need is love (the beatles)' },
                         { id: '1lyu1KKwC74', title: 'bitter sweet symphony (the verve)' },
                         { id: 'MO0LdXqwDP0', title: 'afterlife (evanescence)' },
