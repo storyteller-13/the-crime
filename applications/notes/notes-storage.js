@@ -36,95 +36,135 @@ class NotesStorage {
         return [
             {
             date: '2026-08-16T00:00:00.000Z',
-            title: 'someday i will be free',
+            title: 'the end',
             content: this.cleanContent(`
-            hi folks,
+hi folks,
 
-            this project was archived because it's a closed chapter from perhaps the hardest months of my life, and i simply can't look at it anymore.
+this project holds my innermost story, from the moment right after i found out that i had been hacked and sex-trafficked for several years, with the help of my then-boyfriend.
 
-            but i need to write one more thing: even though no one has talked directly to me in over two years (like if i had leprosy), through induction with the help of good online friends (mostly from youtube), i eventually figured out what i believe happened.
+because nobody ever talked directly to me for over two years, it took me a really long time to find out. i still don’t know the entire story, but i know enough to close this chapter.
 
-            it was the crazy ex who started. he was the one who created the persona, shared videos and pictures (like the 96 video, which i swear in the name of my dad, god, i don't remember it, but he is the only person who could have done this).
+the tl;dr:
+
+through induction with the help of good online friends (mostly from youtube), i eventually figured out what i believe happened.
+
+it was the crazy ex who started. he was the one who created the persona, shared videos and pictures (like the 96 video, which i swear in the name of my dad, god, i don't remember it, but he is the only person who could have done this).
             
-            he somehow started selling me (i think it was an onlyfans account, but i have never seen it), and somehow i started becoming known online. meanwhile, i was focusing on my work and studies and being gaslit every single second.
+he somehow started selling me (i think it was an onlyfans account, but i have never seen it), and somehow i started becoming known online. meanwhile, i was focusing on my work and studies and being gaslit every single second.
 
-            then more psychopaths entered the game, and i started being filmed, streamed, gangstalked, and essentially enslaved, creating an entirely new concept of modern slavery — all while i simply didn't realize what was going on. i only noticed that nobody would talk to me, work with me, or explain what was happening.
+then more psychopaths entered the game, and i started being filmed, streamed, gangstalked, and essentially enslaved, creating an entirely new concept of modern slavery — all while i simply didn't realize what was going on. i only noticed that nobody would talk to me, work with me, or explain what was happening.
 
-            i don't know how much money these monsters made of me, but obviously i have never seen any of it. and i am sorry to bring you this news, but if you paid for it, you were sponsoring a very cruel crime. and i still don't know who was that voice in japan, and who was watching it and how.
+i don't know how much money these monsters made of me, but obviously i have never seen any of it. and i am sorry to bring you this news, but if you paid for it, you were sponsoring a very cruel crime. and i still don't know who was that voice in japan, and who was watching it and how.
             
-            i should have known better. psychopaths are real, and there were plenty of red flags.
+i should have known better. psychopaths are real, and there were plenty of red flags.
 
-            unfortunately, before i moved full-time into blockchain projects in 2021, i was sheltered in a world of decent people, scientists, and engineers, with well-regulated professional interactions. so i could not have known better. being an introvert and a workaholic, and not being on social media, probably didn't help against the helpless self-alienation and lack of awareness surrounding the post-covid societal eruption.
+unfortunately, before i moved full-time into blockchain projects in 2021, i was sheltered in a world of decent people, scientists, and engineers, with well-regulated professional interactions. so i could not have known better. being an introvert and a workaholic, and not being on social media, probably didn't help against the helpless self-alienation and lack of awareness surrounding the post-covid societal eruption.
             
-            at this moment, somehow, the entire world is watching everything i do. all my devices (with exception of my work linux box that no one will ever touch) have been streamed to everyone, no matter how many times i change them to new ones (and how many i asked to stop or i asked to someone to tell me). i believe this was a way someone decided to try to fix things, but it now seems more like a way someone powerful decided to finish destroying my agency and sanity.
+at this moment, somehow, the entire world is watching everything i do. all my devices (with exception of my work linux box that no one will ever touch) have been streamed to everyone, no matter how many times i change them to new ones (and how many i asked to stop or i asked to someone to tell me). i believe this was a way someone decided to try to fix things, but it now seems more like a way someone powerful decided to finish destroying my agency and sanity.
 
-            but i am still here. i am still jobless and lost. i am still in the dark, trying to move on and heal without knowing what really happened.
+but i am still here. i am still jobless and lost. i am still in the dark, trying to move on and heal without knowing what really happened.
 
-            at some point, everything should be revealed, because it has no other way. and i beg you: please help make that happen sooner rather than later. it's time.
+at some point, everything should be revealed, because it has no other way. and i beg you: please help make that happen sooner rather than later. it's time.
 
-            the last three years have been the most painful and hardest time of my life. i didn't know a person could suffer so much. i can't even describe what i have been through, and i would rather use all my brain capacity to forget and move on.
+the last three years have been the most painful and hardest time of my life. i didn't know a person could suffer so much. i can't even describe what i have been through, and i would rather use all my brain capacity to forget and move on.
 
-            i had no idea about any of this for a long time, and every single thing was taken from me: my life, my career, my wealth, my friends, my home, my privacy, my agency, and my dignity.
+i had no idea about any of this for a long time, and every single thing was taken from me: my life, my career, my wealth, my friends, my home, my privacy, my agency, and my dignity.
 
-            then i slowly started finding out, piece by piece: crime stacked on top of more crime, until i couldn't believe it could possibly be real.
+then i slowly started finding out, piece by piece: crime stacked on top of more crime, until i couldn't believe it could possibly be real.
 
-            i first realized the tip of the iceberg on november 22, 2024, but now i believe i was captured back in 2022. it's hard to be an immigrant, and it's hard to be a woman. i have been humiliated for many years, bullied, chased, starved, and had everything stripped from me.
+i first realized the tip of the iceberg on november 22, 2024, but now i believe i was captured back in 2022. it's hard to be an immigrant, and it's hard to be a woman. i have been humiliated for many years, bullied, chased, starved, and had everything stripped from me.
 
-            but it is what it is.
+but it is what it is.
 
-            the way i frame it in my head is that perhaps my story has helped the world a little bit. memento mori: i am healthy, i am still alive, i still have a life ahead of me, and so many things could have been much worse.
+the way i frame it in my head is that perhaps my story has helped the world a little bit. memento mori: i am healthy, i am still alive, i still have a life ahead of me, and so many things could have been much worse.
 
-            now i am past acceptance. i am looking at what's left and what's next.
+now i am past acceptance. i am looking at what's left and what's next.
 
-            i am starting to feel whole again. i have forgiven myself for being so clueless about him and everything else, and i have forgiven the people from my old life for believing i was that person or for not warning me.
+i am starting to feel whole again. i have forgiven myself for being so clueless about him and everything else, and i have forgiven the people from my old life for believing i was that person or for not warning me.
 
-            i am now focusing on rebuilding my life, and i am grateful that there have been so many good people helping me.
+i am now focusing on rebuilding my life, and i am grateful that there have been so many good people helping me.
 
-            i am a great scientist and engineer, and i can build my career back. unfortunately, i will now always be on the internet, but the people who stole my images will face the consequences of the law.
+i am a great scientist and engineer, and i can build my career back. unfortunately, i will now always be on the internet, but the people who stole my images will face the consequences of the law.
 
-            the moments of extreme suffering and despair will fade from my memory as i build new moments and cherish every second ahead of me.
+the moments of extreme suffering and despair will fade from my memory as i build new moments and cherish every second ahead of me.
 
-            i really love so many friends around the world who have been there for me every day, holding my hand. and love and communication don't need to happen through sounds; they only need to come from the heart.
+i really love so many friends around the world who have been there for me every day, holding my hand. and love and communication don't need to happen through sounds; they only need to come from the heart.
 
-            i have proven to myself that miracles and magic are real. and i am still alive, healthy, a good person, and i have my integrity intact.
+i have proven to myself that miracles and magic are real. and i am still alive, healthy, a good person, and i have my integrity intact.
 
-            i will be okay. i will overcome this and forget this nightmare. 
+i will be okay. i will overcome this and forget this nightmare. 
 
-            once more, just to make it very clear:
+once more, just to make it very clear:
 
-            -------------------------------------------------------------------
-            I NEVER HAD AN OF, AND I NEVER SHARED INTIMATE PICTURES OF MYSELF. 
-            I WAS ENSLAVED, DECEIVED, ABUSED, AND DRUGGED BY MY EX-BOYFRIEND, 
-            GRIFFIN HOWLETT, FROM 2022 TO 2024, PLUS ALL THE OTHER PSYCHOPATHS
-            I DON'T KNOW ABOUT AND I ONLY DISCOVERED THE FULL EXTENT OF WHAT WAS
-            HAPPENING RECENTLY. I WILL REPEAT THIS FOR AS LONG AS NECESSARY UNTIL 
-            IT IS UNDERSTOOD: I AM NOT A WHORE. I AM A TIMID ENGINEER AND SCIENTIST
-            WHOSE LIFE WAS DESTROYED BY MONSTERS. NO ONE HAS ANY IDEA HOW MUCH 
-            I SUFFERED, AND I DESERVE RESPECT AND JUSTICE, ONCE AND FOR ALL.
-            -------------------------------------------------------------------
+-------------------------------------------------------------------
+I NEVER HAD AN OF, AND I NEVER SHARED INTIMATE PICTURES OF MYSELF. 
+I WAS ENSLAVED, DECEIVED, ABUSED, AND DRUGGED BY MY EX-BOYFRIEND, 
             
-            but mostly...
+GRIFFIN HOWLETT, 
+https://www.linkedin.com/in/ghowlett
+            
+FROM 2022 TO 2024, PLUS ALL THE OTHER PSYCHOPATHS I DON'T KNOW ABOUT 
+AND I ONLY DISCOVERED THE FULL EXTENT OF WHAT WAS HAPPENING RECENTLY. 
+I WILL REPEAT THIS FOR AS LONG AS NECESSARY UNTIL 
+IT IS UNDERSTOOD: I AM NOT A WHORE. I AM A TIMID ENGINEER AND SCIENTIST
+WHOSE LIFE WAS DESTROYED BY MONSTERS. NO ONE HAS ANY IDEA HOW MUCH 
+I SUFFERED, AND I DESERVE RESPECT AND JUSTICE, ONCE AND FOR ALL.
+-------------------------------------------------------------------
+            
+but mostly...
 
-            NO ONE WILL EVER DESTROY MY LIFE. EVER.
+NO ONE WILL EVER DESTROY MY LIFE. EVER.
 
-            👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
+👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
 
-            so what's now?
+so, what now?
 
-            i am re-building my life, everything i had and was stolen from me, plus much more because i deserve all
+i am rebuilding my life — everything i had and everything that was taken from me, and even more, because i deserve it all.
 
-            i am a human, a woman, not an animal, and not a mat
-            i am good person, kind, hard-worker, thoughtful
+i am a human being. i am a woman. i am not an animal, and i am not a mat.
 
-            i deserve being able to be in peace, being able to love, being able to have my privacy and dignity back, being able to work and to flourish, being able to be happy, and being able to have a good life
+i am a good person: kind, hardworking, thoughtful, and full of care.
 
-            and it will happen, sooner or longer - no matter how many monsters trying to do what monsters do
+i deserve to live in peace. i deserve to love and be loved. i deserve to have my privacy and dignity restored. i deserve the ability to work, to grow, to flourish, to be happy, and to build a beautiful life.
 
-            it will happen
+it will happen — sooner or later. no matter how many monsters try to do what monsters do, they will not define my story.
 
-            and this little horror tale will be nothing but a tiny blip in all the beautiful stories and moments that my life will be made of.
+this little horror tale will become nothing more than a tiny blip in the vast collection of beautiful stories, joyful moments, and meaningful memories that my life will be made of.
 
-            👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
+👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟  👾 ✨ 🌟 👾 ✨ 🌟 👾 ✨ 🌟 
+
+last bit, for d-day:
+
+griffin howlett, i won’t wait for it because i have an amazing life to live far away from this trauma, but sooner or later you will have to take accountability for your actions.
+
+i expect you to clear my name, restore my reputation, and acknowledge the truth:
+
+1. you filmed me without my consent while i was under the influence of a substance you gave me — something i had never taken before. you knew i had been saving molly to share with someone special, and you knew the trust i placed in you.
+
+2. i have never watched the 96 video you made, but the entire world did. you know i was unaware of it throughout the years we dated (2022–2024). i only discovered it in december 2025. during all that time, while you were in my life, people were watching, judging, and mocking me based on something i did not even know existed. you knew the truth, and you chose to stay silent.
+
+3. i still do not know who that voice in japan belonged to, and when i questioned it, you told me “i was tripping.” that was deeply cruel, and you were part of something that caused me serious harm.
+
+4. i still do not know the full extent of what you did with my personal pictures, but sooner or later, i will learn the truth.
+
+5. i expect an apology as well. you caused profound damage to my life. there is only one life, and what happened took away years, trust, peace, and pieces of myself that i am now rebuilding.
+
+6. i hope you do the right thing sooner than later — for your own peace of mind.
+
+
+and to everyone who watched my private life without my consent for years:
+
+1. i am also not waiting for your apologies because i no longer need them to move forward. but accountability still matters, and an apology is something you owe.
+
+2. when you are ready to become a righteous person, you will realize that there is no way forward without this.
+
+
+that’s it, everyone. it's that simple.
+back to normal. back to integrity.
+        
+and i am out of this craziness and fully back to my awesome life as an engineer, scientist, and good girl who is taking over the world with kindness and honest work.
+
+back to my life.
             `)
             },
             {
