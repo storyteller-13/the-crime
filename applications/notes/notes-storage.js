@@ -102,6 +102,7 @@ I WAS ENSLAVED, DECEIVED, ABUSED, AND DRUGGED BY MY EX-BOYFRIEND,
             
 GRIFFIN HOWLETT, 
 https://www.linkedin.com/in/ghowlett
+https://github.com/cypherpunk-symposium/dark-forest-toolkit/pulls?q=is%3Apr+state%3Aclosed+author%3A0xDualCube
             
 FROM 2022 TO 2024, PLUS ALL THE OTHER PSYCHOPATHS I DON'T KNOW ABOUT 
 AND I ONLY DISCOVERED THE FULL EXTENT OF WHAT WAS HAPPENING RECENTLY. 
